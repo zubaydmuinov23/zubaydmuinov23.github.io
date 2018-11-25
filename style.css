@@ -1,0 +1,63 @@
+a
+{
+    font-family:"Times New Roman",Georgia,Serif;
+    color:#0C0C7E;
+text-align:left;
+    font-size:20px;
+}
+body
+{
+font-family:"cursive";
+color:chocolate;
+}
+h1
+{
+    color:black;
+    font-family:monospace;
+    font-size;45px;
+}
+h2
+{
+    color:darkgoldenrod;
+    font-size:35px;
+    font-family:"times";
+}
+h3
+{
+    color:forestgreen;
+    font-size:25px;
+    font-family:"arial";
+}
+p
+{
+    color:black;
+    font-family:monospace;
+    font-size:15px;
+}
+li
+{
+    color:black;
+    font-family:fantasy;
+    font-size:20px;
+}
+body
+{
+    font-family:"monospace";
+    color:darksalmon;
+    background-color:floralwhite;
+}
+h1
+{
+    color:black;
+    font-family:fantasy;
+    font-size;45px;
+}
+p
+{
+    color:darkred;
+    font-family:fantasy;
+    font-size:15px;
+    text-align:left;
+}
+
+
